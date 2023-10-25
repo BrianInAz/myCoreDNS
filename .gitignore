@@ -5,5 +5,5 @@ Corefile
 build/
 release/
 vendor/
-core
+core/
 go.sum
