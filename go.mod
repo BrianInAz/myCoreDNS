@@ -63,6 +63,7 @@ require (
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
+	github.com/devon-mar/temptxt v0.0.0-20220828181957-762508c0e069 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/ebitengine/purego v0.5.0-alpha.1 // indirect
@@ -98,6 +99,7 @@ require (
 	github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492 // indirect
 	github.com/oschwald/maxminddb-golang v1.11.0 // indirect
 	github.com/outcaste-io/ristretto v0.2.3 // indirect
+	github.com/oz123/coredns-netbox-plugin v0.4.1-0.20230807221914-81715e216c47 // indirect
 	github.com/philhofer/fwd v1.1.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/prometheus/procfs v0.10.1 // indirect
@@ -136,4 +138,4 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
-replace github.com/oz123/coredns-netbox-plugin => /home/b/go/Build/coredns-netbox-plugin
+// replace github.com/oz123/coredns-netbox-plugin => /home/b/go/Build/coredns-netbox-plugin
